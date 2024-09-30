@@ -66,7 +66,7 @@ I am known for my **problem-solving abilities**, **clear communication**, and **
 
 ## 💼 Experience
 
-### [Senior Full Stack Developer (Team Lead)](https://lumenalta.com) — *Lumenalta (formerly Clevertech) | Chicago, IL (Remote)*
+### Senior Full Stack Developer (Team Lead) — *Lumenalta (formerly Clevertech) | Chicago, IL (Remote)*
 **June 2020 - May 2024**
 - **Technologies**: PHP, Laravel, Python, Django, Vue, WordPress, React, Angular, Node.js, Next.js, Redux, JavaScript, Java, C#, .NET, DevOps
 - Led **front-end development** with **Angular**, **Vue.js**, and **Next.js**, enhancing **UI/UX** and boosting user engagement.
